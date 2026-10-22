@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "tadej pogacar",
+    "telefono": "3205648541",
+    "direccion": "calle eterna",
+    "email": "@tourdefrancia",
+    "contraseña": "123"
+  },
+  {
+    "id": 2,
+    "nombre": "nairo quintana",
+    "telefono": "3205647777",
+    "direccion": "calle azul",
+    "email": "@zipaquira",
+    "contraseña": "987"
+  },
+  {
+    "id": 3,
+    "nombre": "miguel indurain",
+    "telefono": "320562874",
+    "direccion": "calle tourmalet",
+    "email": "@españaprovincial",
+    "contraseña": "654"
+  }
+]

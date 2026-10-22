@@ -1,0 +1,16 @@
+{
+  "name": "zapatosangel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "zapatos.js",
+  "scripts": {
+    "dev": "node --watch zapatos.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
